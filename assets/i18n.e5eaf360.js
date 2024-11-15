@@ -1,0 +1,1 @@
+import{P as l}from"./index.74c52527.js";import{c as r}from"./vue-i18n.runtime.9518ebdf.js";var o={},s={},t={"pt-BR":s,"en-US":o},f=({app:a})=>{const e=r({locale:l.getLocale(),fallbackLocale:"en-US",legacy:!1,messages:t});a.use(e)};export{f as default};
